@@ -12,7 +12,7 @@
 
 ---
 
-A simple and useful shutdown scheduler for Windows!
+A simple, useful and easy-to-use shutdown scheduler for Windows!
 
 ### Features:
 * `Schedule Shutdown`
