@@ -6,4 +6,14 @@
 ![Forks](https://img.shields.io/github/forks/Nicuse/ShutdownScheduler?style=flat-square&logo=github)
 ![Stars](https://img.shields.io/github/stars/Nicuse/ShutdownScheduler?style=flat-square&logo=github)
 
+---
+
 [![Download Shutdown Scheduler](https://img.shields.io/badge/Download-Shutdown%20Scheduler-Red?style=for-the-badge)](https://github.com/Nicuse/ShutdownScheduler/releases/download/v1.0.0/ShutdownScheduler.exe)
+
+---
+
+This is a simple and basic shutdown scheduler for Windows!
+
+### Features:
+* `Schedule Shutdown`
+* `Cancel Scheduled Shutdown`
